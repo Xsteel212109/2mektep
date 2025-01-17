@@ -1,0 +1,142 @@
+
+body{
+    margin: 0;
+}
+.conteiner {
+    margin: 0px 30px;
+    padding-bottom: 100px;
+}
+.header {
+    background-image: url(sd.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+    background-color: #000000;
+}
+
+
+.hearder-line{
+    padding-top: 50px;  
+     display: flex; 
+    align-items: center;
+}
+.nav-item {
+    color: rgb(0, 0, 0);   
+    text-decoration: none;    /*подчёркнутость текста*/
+    font-size: 20px;
+    font-weight: 700;
+    margin-right: 40px;
+    transition: color 0.4s linear;
+    background-color: #ffffff;
+    padding: 4px 8px;
+   
+}
+.cart {
+    padding-left: 350px;
+   
+    
+} 
+.nav {
+    padding-left: 50px;    /*отступ слева*/
+}
+.booton {
+    background-color: #90fbfc;
+    text-decoration: none;
+    padding: 14px 18px;
+    font-size: 25px;        /*размер текста*/
+    font-weight: 700;
+    transition: background-color 0.3s linear;
+}
+
+.nav-item:hover {
+    color:#ff0000;
+}
+.booton:hover {
+    background-color: #fb3e3e;
+}
+  
+
+.card-text {
+    color: #ffffff; 
+    background-color: rgb(54, 52, 50);
+    font-size: 30px;
+
+}
+.headerfood {
+    font-size: 50px;
+    color: #000000;
+    
+}
+.card {
+    text-align: center; 
+    background-color: #ffffff; 
+}
+.headerfood3 {
+    font-size: 20px;
+}
+.mis {
+    padding-bottom: 250px;
+}
+.food5 {
+    padding-bottom: 50px;
+    background-color: rgb(54, 52, 50);
+}
+.food4 {
+   background-color: rgb(54, 52, 50);
+}
+.food3 {
+    background-color: rgb(54, 52, 50);
+ }
+
+ .food2 {
+    background-color: rgb(54, 52, 50);
+ }
+
+ .food1 {
+    background-color: rgb(54, 52, 50);
+ }
+.table2 {
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(54, 52, 50);
+} 
+.table {
+    background-color: rgb(54, 52, 50);
+}
+.table3 {
+    color: #ffffff; 
+    background-color: rgb(54, 52, 50);
+}
+.table4 {
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+}
+.title {
+    color: #ffffff;
+    background-color: rgb(54, 52, 50);
+    text-align: center;
+    font-size: 70px;
+}
+.title2 {
+    color: #ffffff;
+    background-color: rgb(54, 52, 50);
+    text-align: center;
+    font-size: 70px;
+}
+.table4 {
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(54, 52, 50);
+    padding: 70px 90px;
+}
+.conteiner3 {
+    text-align: center;
+}
+.video {
+    background-color: rgb(54, 52, 50);
+    text-align: center;
+}
+.linse {
+    background-color: rgb(54, 52, 50);
+}
